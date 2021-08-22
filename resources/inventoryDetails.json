@@ -1,0 +1,53 @@
+{
+  "Rice": [
+    {
+      "Name": "Brown rice",
+      "Weight": 15,
+      "PriceperKG": 88
+    },
+    {
+      "Name": "GovindVog",
+      "Weight": 18,
+      "PriceperKG": 70
+    },
+    {
+      "Name": "Basmati",
+      "Weight": 20,
+      "PriceperKG": 60
+    }
+  ],
+  "Pulses": [
+    {
+      "Name": "Masoor Dal",
+      "Weight": 20,
+      "PriceperKG": 90
+    },
+    {
+      "Name": "Chana Dal",
+      "Weight": 10,
+      "PriceperKG": 70
+    },
+    {
+      "Name": "Moong Dal",
+      "Weight": 10,
+      "PriceperKG": 120
+    }
+  ],
+  "Wheat": [
+    {
+      "Name": "Ashirvad",
+      "Weight": 12,
+      "PriceperKG": 65
+    },
+    {
+      "Name": "Annapurna",
+      "Weight": 10,
+      "PriceperKG": 55
+    },
+    {
+      "Name": "Furtune",
+      "Weight": 10,
+      "PriceperKG": 60
+    }
+  ]
+}
